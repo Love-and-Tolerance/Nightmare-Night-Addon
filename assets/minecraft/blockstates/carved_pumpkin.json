@@ -7,12 +7,33 @@
     {
       "model": "minecraft:block/carved_pumpkin_velvet",
       "y": 90
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_derp",
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_faceplot",
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_headlesshorse",
+      "y": 90
     } ],
     "facing=north": [ {
       "model": "minecraft:block/carved_pumpkin"
     },
     {
       "model": "minecraft:block/carved_pumpkin_velvet"
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_derp"
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_faceplot"
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_headlesshorse"
     } ],
     "facing=south": [ {
       "model": "minecraft:block/carved_pumpkin",
@@ -21,6 +42,18 @@
     {
       "model": "minecraft:block/carved_pumpkin_velvet",
       "y": 180
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_derp",
+      "y": 180
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_faceplot",
+      "y": 180
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_headlesshorse",
+      "y": 180
     } ],
     "facing=west": [ {
       "model": "minecraft:block/carved_pumpkin",
@@ -28,6 +61,18 @@
     },
     {
       "model": "minecraft:block/carved_pumpkin_velvet",
+      "y": 270
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_derp",
+      "y": 270
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_faceplot",
+      "y": 270
+    },
+    {
+      "model": "minecraft:block/carved_pumpkin_headlesshorse",
       "y": 270
     } ]
   }
