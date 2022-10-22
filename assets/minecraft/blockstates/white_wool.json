@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/white_wool",
+        "weight": 85      },
+      {
+        "model": "minecraft:block/white_wool_2",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/white_wool_3",
+        "weight": 85
+      },
+      {
+        "model": "minecraft:block/white_wool_4",
+        "weight": 50
+      },
+      {
+        "model": "minecraft:block/white_wool_5",
+        "weight": 85
+      },
+      {
+        "model": "minecraft:block/white_wool_6",
+        "weight": 5
+      }
+    ]
+  }
+}
