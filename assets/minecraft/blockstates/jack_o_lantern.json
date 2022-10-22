@@ -7,12 +7,33 @@
     {
       "model": "minecraft:block/jack_o_lantern_velvet",
       "y": 90
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_derp",
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_faceplot",
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_headlesshorse",
+      "y": 90
     } ],
     "facing=north": [ {
       "model": "minecraft:block/jack_o_lantern"
     },
     {
       "model": "minecraft:block/jack_o_lantern_velvet"
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_derp"
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_faceplot"
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_headlesshorse"
     } ],
     "facing=south": [ {
       "model": "minecraft:block/jack_o_lantern",
@@ -21,6 +42,18 @@
     {
       "model": "minecraft:block/jack_o_lantern_velvet",
       "y": 180
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_derp",
+      "y": 180
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_faceplot",
+      "y": 180
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_headlesshorse",
+      "y": 180
     } ],
     "facing=west": [ {
       "model": "minecraft:block/jack_o_lantern",
@@ -28,6 +61,18 @@
     },
     {
       "model": "minecraft:block/jack_o_lantern_velvet",
+      "y": 270
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_derp",
+      "y": 270
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_faceplot",
+      "y": 270
+    },
+    {
+      "model": "minecraft:block/jack_o_lantern_headlesshorse",
       "y": 270
     } ]
   }
