@@ -1,0 +1,32 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/green_carpet",
+        "weight": 85
+      },
+      {
+        "model": "minecraft:block/green_carpet_2",
+        "weight": 85
+      },
+      {
+        "model": "minecraft:block/green_carpet_3",
+        "weight": 85
+      },
+      {
+        "model": "minecraft:block/green_carpet_4",
+        "weight":  5
+      },
+      {
+        "model": "minecraft:block/green_carpet_5",
+        "weight": 15
+      },
+      {
+        "model": "minecraft:block/green_carpet_6",
+        "weight": 85
+      }
+    ]
+  }
+}
+
+

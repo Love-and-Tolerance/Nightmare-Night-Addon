@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/purple_wool",
+        "weight": 85
+      },
+      {
+        "model": "minecraft:block/purple_wool_2",
+        "weight": 85
+      },
+      {
+        "model": "minecraft:block/purple_wool_3",
+        "weight": 85
+      },
+      {
+        "model": "minecraft:block/purple_wool_4",
+        "weight": 5
+      },
+      {
+        "model": "minecraft:block/purple_wool_5",
+        "weight": 15
+      },
+      {
+        "model": "minecraft:block/purple_wool_6",
+        "weight": 85
+      }
+    ]
+  }
+}
