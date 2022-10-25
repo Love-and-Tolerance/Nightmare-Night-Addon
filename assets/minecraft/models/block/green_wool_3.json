@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/orientable",
+    "textures": {
+      "top": "minecraft:block/green_wool_3",
+      "front": "minecraft:block/green_wool_clean",
+      "side": "minecraft:block/green_wool_clean"
+    }
+  }
