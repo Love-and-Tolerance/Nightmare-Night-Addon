@@ -1,79 +1,278 @@
 {
   "variants": {
-    "facing=east": [ {
-      "model": "minecraft:block/jack_o_lantern",
-      "y": 90
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_velvet",
-      "y": 90
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_derp",
-      "y": 90
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_faceplot",
-      "y": 90
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_headlesshorse",
-      "y": 90
-    } ],
-    "facing=north": [ {
-      "model": "minecraft:block/jack_o_lantern"
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_velvet"
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_derp"
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_faceplot"
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_headlesshorse"
-    } ],
-    "facing=south": [ {
-      "model": "minecraft:block/jack_o_lantern",
-      "y": 180
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_velvet",
-      "y": 180
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_derp",
-      "y": 180
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_faceplot",
-      "y": 180
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_headlesshorse",
-      "y": 180
-    } ],
-    "facing=west": [ {
-      "model": "minecraft:block/jack_o_lantern",
-      "y": 270
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_velvet",
-      "y": 270
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_derp",
-      "y": 270
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_faceplot",
-      "y": 270
-    },
-    {
-      "model": "minecraft:block/jack_o_lantern_headlesshorse",
-      "y": 270
-    } ]
+    "facing=north": [
+      {
+        "model": "minecraft:block/jack_o_lantern",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_cadence_cutiemark",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_celestia_cutiemark",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_derp",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_faceplot",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_grian",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_happy_pone_face_stripes",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_headlesshorse",
+        "weight": 15
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_luna_cutiemark",
+        "weight": 15
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_mumbo",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_pltwi_cutiemark",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_sad_pone_face",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_spider_face",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_velvet",
+        "weight": 10
+      }
+    ],
+    "facing=east": [
+      {
+        "model": "minecraft:block/jack_o_lantern",
+        "y": 90,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_cadence_cutiemark",
+        "y": 90,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_celestia_cutiemark",
+        "y": 90,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_derp",
+        "y": 90,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_faceplot",
+        "y": 90,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_grian",
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_happy_pone_face_stripes",
+        "y": 90,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_headlesshorse",
+        "y": 90,
+        "weight": 15
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_luna_cutiemark",
+        "y": 90,
+        "weight": 15
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_mumbo",
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_pltwi_cutiemark",
+        "y": 90,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_sad_pone_face",
+        "y": 90,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_spider_face",
+        "y": 90,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_velvet",
+        "y": 90,
+        "weight": 10
+      }
+    ],
+    "facing=south": [
+      {
+        "model": "minecraft:block/jack_o_lantern",
+        "y": 180,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_cadence_cutiemark",
+        "y": 180,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_celestia_cutiemark",
+        "y": 180,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_derp",
+        "y": 180,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_faceplot",
+        "y": 180,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_grian",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_happy_pone_face_stripes",
+        "y": 180,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_headlesshorse",
+        "y": 180,
+        "weight": 15
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_luna_cutiemark",
+        "y": 180,
+        "weight": 15
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_mumbo",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_pltwi_cutiemark",
+        "y": 180,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_sad_pone_face",
+        "y": 180,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_spider_face",
+        "y": 180,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_velvet",
+        "y": 180,
+        "weight": 10
+      }
+    ],
+    "facing=west": [
+      {
+        "model": "minecraft:block/jack_o_lantern",
+        "y": 270,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_cadence_cutiemark",
+        "y": 270,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_celestia_cutiemark",
+        "y": 270,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_derp",
+        "y": 270,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_faceplot",
+        "y": 270,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_grian",
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_happy_pone_face_stripes",
+        "y": 270,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_headlesshorse",
+        "y": 270,
+        "weight": 15
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_luna_cutiemark",
+        "y": 270,
+        "weight": 15
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_mumbo",
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_pltwi_cutiemark",
+        "y": 270,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_sad_pone_face",
+        "y": 270,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_spider_face",
+        "y": 270,
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_velvet",
+        "y": 270,
+        "weight": 10
+      }
+    ]
   }
 }
