@@ -34,6 +34,10 @@
         "weight": 15
       },
       {
+        "model": "minecraft:block/jack_o_lantern_kissy_pone_face",
+        "weight": 10
+      },
+      {
         "model": "minecraft:block/jack_o_lantern_luna_cutiemark",
         "weight": 15
       },
@@ -98,6 +102,11 @@
         "model": "minecraft:block/jack_o_lantern_headlesshorse",
         "y": 90,
         "weight": 15
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_kissy_pone_face",
+        "y": 90,
+        "weight": 10
       },
       {
         "model": "minecraft:block/jack_o_lantern_luna_cutiemark",
@@ -172,6 +181,11 @@
         "weight": 15
       },
       {
+        "model": "minecraft:block/jack_o_lantern_kissy_pone_face",
+        "y": 180,
+        "weight": 10
+      },
+      {
         "model": "minecraft:block/jack_o_lantern_luna_cutiemark",
         "y": 180,
         "weight": 15
@@ -242,6 +256,11 @@
         "model": "minecraft:block/jack_o_lantern_headlesshorse",
         "y": 270,
         "weight": 15
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern_kissy_pone_face",
+        "y": 270,
+        "weight": 10
       },
       {
         "model": "minecraft:block/jack_o_lantern_luna_cutiemark",
